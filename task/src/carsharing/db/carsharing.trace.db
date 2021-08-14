@@ -1,0 +1,6 @@
+2021-08-14 17:40:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMPANY" not found; SQL statement:
+ALTER TABLE COMPANY ALTER COLUMN ID RESTART WITH 1 [42102-200]
+2021-08-14 17:40:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CAR" not found; SQL statement:
+ALTER TABLE CAR ALTER COLUMN ID RESTART WITH 1 [42102-200]
